@@ -17,6 +17,6 @@ Busco oportunidades para aumentar o grau de conhecimento das tecnologias que apr
 
 <div>
         <p>Acesse meu perfil:</p>
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
         <a href="https://www.linkedin.com/in/thais-pedrosa-de-sousa-cunha/"></a>
     </div><br>
