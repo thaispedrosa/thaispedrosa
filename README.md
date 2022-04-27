@@ -1,4 +1,4 @@
-### Olá mundo! 👋 Eu sou a Thaís Pedrosa!
+### <h1>Olá mundo! 👋 Eu sou a Thaís Pedrosa!</h1>
 
 #Seja bem vindo(a)! Desenvolvedora Front-End em formação. Cursando ADS 2022.1.
 Busco oportunidades para aumentar o grau de conhecimento das tecnologias que aprendi e atuar na área como Desenvolvedora.
@@ -15,8 +15,3 @@ Busco oportunidades para aumentar o grau de conhecimento das tecnologias que apr
 
 🚀Próximos passos: Java, React, PHP e MySQL.
 
-<div>
-        <p>Acesse meu perfil:</p>
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-        <a href="https://www.linkedin.com/in/thais-pedrosa-de-sousa-cunha/"></a>
-    </div><br>
