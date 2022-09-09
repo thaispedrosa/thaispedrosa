@@ -1,6 +1,6 @@
 ### <h1>Olá mundo! 👋 Eu sou a Thaís Pedrosa!</h1>
 
-#Seja bem vindo(a)! Desenvolvedora Front-End em formação. Cursando ADS 2022.1.
+#Seja bem vindo(a)! Desenvolvedora Front-End em formação. Cursando ADS 2022.2.
 Busco oportunidades para aumentar o grau de conhecimento das tecnologias que aprendi e atuar na área como Desenvolvedora.
 
 ![Thais's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaispedrosa&show_icons=true&theme=radical) 
@@ -11,7 +11,8 @@ Busco oportunidades para aumentar o grau de conhecimento das tecnologias que apr
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html">
         <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
     </div>
 
-🚀Próximos passos: Java, React, PHP e MySQL.
+🚀Próximos passos: React, Django e Azure.
 
