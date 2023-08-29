@@ -1,7 +1,7 @@
 ### <h1>Olá mundo! 👋 Eu sou a Thaís Pedrosa!</h1>
 
-#Seja bem vindo(a)! Desenvolvedora Front-End em formação. Cursando ADS 2022.2.
-Busco oportunidades para aumentar o grau de conhecimento das tecnologias que aprendi e atuar na área como Desenvolvedora.
+#Seja bem vindo(a)! Analista de QA em formação. Cursando ADS 2022.4.
+Busco oportunidades para aumentar o grau de conhecimento das tecnologias que aprendi e atuar na área como QA.
 
 ![Thais's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaispedrosa&show_icons=true&theme=radical) 
 
@@ -14,5 +14,4 @@ Busco oportunidades para aumentar o grau de conhecimento das tecnologias que apr
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
     </div>
 
-🚀Próximos passos: React, Django e Azure.
 
