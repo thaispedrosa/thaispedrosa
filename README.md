@@ -1,6 +1,6 @@
 ### <h1>Olá mundo! 👋 Eu sou a Thaís Pedrosa!</h1>
 
-#Seja bem vindo(a)! Analista de QA em formação. Cursando ADS 2022.4.
+#Seja bem vindo(a)! Analista de QA em formação. Cursando ADS 2024.5.
 Busco oportunidades para aumentar o grau de conhecimento das tecnologias que aprendi e atuar na área como QA.
 
 ![Thais's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaispedrosa&show_icons=true&theme=radical) 
